@@ -1,0 +1,11 @@
+Timestamp,Server,Datacenter,Url,
+2,1385683200,dn-03,sjc,www.cnn.com
+3,1385683200,dn-02,lax,www.yahoo.com
+4,1385683201,dn-03,dal,www.foxnews.com
+5,1385683201,dn-05,sjc,www.yahoo.com/music
+6,1385683201,dn-06,dal,www.bbc.com
+7,1385683220,dn-02,lax,www.techworld.com
+8,1385683201,dn-03,dal,www.hbr.org
+9,1385683203,dn-05,sjc,www.yahoo.com/tech
+10,1385683204,dn-01,dal,www.google.com
+11,1385683208,dn-01,sjc,www.google.com
